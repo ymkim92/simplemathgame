@@ -1,17 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-"""
-ZetCode PySide tutorial 
-
-In this example, we receive data from
-a QtGui.QInputDialog dialog. 
-
-author: Jan Bodnar
-website: zetcode.com 
-last edited: August 2011
-"""
-
 import sys, random
 from PySide import QtGui, QtCore
 
