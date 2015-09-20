@@ -5,7 +5,7 @@ This game is designed for my daughter.
 The problem is to find one digit number to make 10.
 
 .. image:: png/math_game.png 
-    :width: 200px
+    :width: 100px
 
 Run the code you need `pyside <http://zetcode.com/gui/pysidetutorial/>`_.
 Then, you can run the code like this: :: 
